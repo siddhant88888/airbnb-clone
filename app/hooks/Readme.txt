@@ -1,0 +1,1 @@
+Hooks control the open and close function of a modal.
